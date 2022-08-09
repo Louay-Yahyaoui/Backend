@@ -10,6 +10,7 @@
 	"repository": {
 		"type": "git",
 		"url": "https://github.com/Louay-Yahyaoui/Backend.git"
-	}
+	},
+	"version": "1.0"
 	,"author": "louay yahyaoui"
 }
